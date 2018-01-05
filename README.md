@@ -18,6 +18,6 @@
    + Except for the start and end points, we collect the coordinate data every few seconds during a trip. Therefore, we can connect every single point to become a line and see the user trip path.
    + Notice!! Every trip might contain a few coordinate points, thus, filtering data first and don’t upload the data size more than 3MB(or you can separate to several cities)
    
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
       
       
