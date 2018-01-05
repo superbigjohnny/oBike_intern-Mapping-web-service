@@ -5,18 +5,18 @@
       
 ### Geomap - Bike Mapping
    + End point of last trip or the deployed point(bikes which haven’t been ridden before)
-It shows the regional bikes amount.( you can move the mouse to the number and see the range of region) 
-If the single bike cannot be counted to the near bikes, it will show the red-yellow icon.
+   + It shows the regional bikes amount.( you can move the mouse to the number and see the range of region) 
+   + If the single bike cannot be counted to the near bikes, it will show the red-yellow icon.
 
 ### Geomap - Heat map
    + It shows the distribution of start point and end point. (High density = Red region, Low density = blue region)
-Compare the heat map of start & end point to see the users riding condition
-Adjust the slider to change the radius(no unit) of every hot spot
+   + Compare the heat map of start & end point to see the users riding condition
+   + Adjust the slider to change the radius(no unit) of every hot spot
 
 
 ### Geomap - Track path
    + Except for the start and end points, we collect the coordinate data every few seconds during a trip. Therefore, we can connect every single point to become a line and see the user trip path.
-Notice!! Every trip might contain a few coordinate points, thus, filtering data first and don’t upload the data size more than 3MB(or you can separate to several cities)
+   + Notice!! Every trip might contain a few coordinate points, thus, filtering data first and don’t upload the data size more than 3MB(or you can separate to several cities)
    
 
       
