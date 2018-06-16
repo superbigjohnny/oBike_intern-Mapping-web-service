@@ -7,7 +7,7 @@
    + End point of last trip or the deployed point(bikes which haven’t been ridden before)
    + It shows the regional bikes amount.( you can move the mouse to the number and see the range of region) 
    + If the single bike cannot be counted to the near bikes, it will show the red-yellow icon.
-
+<a href="https://i2.imgflip.com/2cc09l.gif"><img src="https://i2.imgflip.com/2cc09l.gif" title="demo"></a>
 ### Geomap - Heat map
    + It shows the distribution of start point and end point. (High density = Red region, Low density = blue region)
    + Compare the heat map of start & end point to see the users riding condition
