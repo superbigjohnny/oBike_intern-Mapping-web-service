@@ -15,13 +15,13 @@
    + Compare the heat map of start & end point to see the users riding condition
    + Adjust the slider to change the radius(no unit) of every hot spot
    
-<a href="https://i2.imgflip.com/2cc09l.gif"><img src="https://i2.imgflip.com/2cc09l.gif" title="demo"></a>
+<a href="https://i2.imgflip.com/2cc0rn.gif"><img src="https://i2.imgflip.com/2cc0rn.gif" title="demo1"></a>
 
 ### Geomap - Track path
    + Except for the start and end points, we collect the coordinate data every few seconds during a trip. Therefore, we can connect every single point to become a line and see the user trip path.
    + Notice!! Every trip might contain a few coordinate points, thus, filtering data first and don’t upload the data size more than 3MB(or you can separate to several cities)
 
-<a href="https://i2.imgflip.com/2cc09l.gif"><img src="https://i2.imgflip.com/2cc09l.gif" title="demo"></a>
+<a href="hhttps://i2.imgflip.com/2cc0rn.gif"><img src="https://i2.imgflip.com/2cc0rn.gif" title="demo2"></a>
    
 
       
